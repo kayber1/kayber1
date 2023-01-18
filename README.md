@@ -14,8 +14,6 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
- 
 <div> 
  
   ![Snake animation](https://github.com/kayber1/kayber1/blob/output/github-contribution-grid-snake.svg)
